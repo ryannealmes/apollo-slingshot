@@ -1,0 +1,6 @@
+[submodule "apollo-react-slingshot"]
+	path = apollo-react-slingshot
+	url = https://github.com/ryannealmes/apollo-react-slingshot.git
+[submodule "apollo-server-slingshot"]
+	path = apollo-server-slingshot
+	url = https://github.com/ryannealmes/apollo-server-slingshot.git
