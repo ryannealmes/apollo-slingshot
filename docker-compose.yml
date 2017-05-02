@@ -1,0 +1,10 @@
+frontend:
+    build: ./apollo-react-slingshot
+    ports:
+      - "3000:3000"
+    links:
+      - backend
+backend:
+    build: ./apollo-server-slingshot
+    ports:
+        - "3003:3003"
